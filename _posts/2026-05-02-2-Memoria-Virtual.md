@@ -22,7 +22,7 @@ Con memoria virtual, cada proceso recibe su **propio estacionamiento privado**, 
 Entonces cuando el bloc de notas intenta ir al espacio 50 del navegador, simplemente no puede — no tiene el mapa de ese estacionamiento. Solo conoce el suyo.
 
 
-![[Pasted image 20260502054116.png]]
+![Memoria Virtual Segmentada](/assets/img/post2.png)
 
 **Columna 1 — Procesos a cargar**
 

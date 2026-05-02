@@ -15,7 +15,7 @@ Cuando se creó Windows NT (New Technology), que en pocas palabras fue el Window
 
 > "El sistema debe protegerse a sí mismo tanto de fallos internos como de manipulaciones externas". El diseño estipula como regla que **"las aplicaciones no deben ser capaces de dañar el sistema operativo u otras aplicaciones"** 
 
-![[Pasted image 20260502043748.png|491]]
+![Anillos de Protección de Windows](/assets/img/post1.png)
 Se crearon fronteras muy estrictas para proteger al SO, el famoso modo usuario (anillo 3) y modo kernel (anillo 0).
 
 En **el anillo 3** vive todo lo que comúnmente conocemos, nuestro videojuego favorito, nuestro navegador web, el bloc de notas, etc, lo podemos imaginar como un perímetro restringido que tiene **prohibido comunicarse** con el hardware.
