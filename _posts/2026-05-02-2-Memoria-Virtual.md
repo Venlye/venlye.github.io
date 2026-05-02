@@ -1,6 +1,6 @@
 ---
 title: "2. Memoria Virtual"
-date: 2026-05-02 22:00:00 -0500
+date: 2026-05-02 12:00:00 -0500
 categories: ["Fundamentos de Ejecución en Windows: PEB, Gestión de Memoria y Técnicas de Hooking."]
 tags: [windows, memoria virtual, eprocess, peb]
 ---
